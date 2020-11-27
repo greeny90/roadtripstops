@@ -1,6 +1,7 @@
 # RoadTripStops
-A MERN application for exploring and sharing your favorite road trip destinations.
-Project for CS5610 Web Development at Northeastern University
+- A MERN application for exploring and sharing your favorite road trip destinations.
+- Project for CS5610 Web Development at Northeastern University.
+- Deployment pending.
 
 ## Author: 
 Yvette Green
@@ -17,12 +18,16 @@ Source: [Material Design](https://material.io/design/color/the-color-system.html
 ![Website Screenshot](https://github.com/greeny90/roadtripstops/blob/main/images/RoadTripStopsmain.png)
 
 ## Mobile View:
+![Website Screenshot](https://github.com/greeny90/roadtripstops/blob/main/images/mobile.png)
 
 ## Signup Page:
+![Website Screenshot](https://github.com/greeny90/roadtripstops/blob/main/images/signup.png)
 
 ## Login Page:
+![Website Screenshot](https://github.com/greeny90/roadtripstops/blob/main/images/login.png)
 
-## User Places:
+## User Places View:
+![Website Screenshot](https://github.com/greeny90/roadtripstops/blob/main/images/myplaces.png)
 
 ## Instructions to Build:
 Clone repository from Github
