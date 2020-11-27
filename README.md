@@ -8,4 +8,5 @@ Source: [Material Design](https://material.io/design/color/the-color-system.html
 
 ![Color Palette](https://github.com/greeny90/roadtripstops/blob/main/images/color%20palette.png)
 
+## Website Main Page:
 ![Website Screenshot](https://github.com/greeny90/roadtripstops/blob/main/images/RoadTripStopsmain.png)
