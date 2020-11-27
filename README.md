@@ -30,13 +30,12 @@ Source: [Material Design](https://material.io/design/color/the-color-system.html
 ![Website Screenshot](https://github.com/greeny90/roadtripstops/blob/main/images/myplaces.png)
 
 ## Instructions to Build:
-Clone repository from Github
-Install Node
-Open two terminal cmds: one for the frontend and one for the backend.
-In both cmds, enter npm install to install dependencies
-In both cmds, enter npm start to start the project
-The frontend should open in http://localhost:3000 in your browser.
-View the backend in http://localhost:5000 in a separate browser tab.
+- Clone repository from Github
+- Install Node
+- Open two terminal cmds: one for the frontend and one for the backend
+- In both cmds, enter 'npm install' to install dependencies, followed by entering 'npm start' to start the project
+- The frontend should open in http://localhost:3000 in your browser.
+- Run the backend in http://localhost:5000 in a separate browser tab.
 
 ## License
 This project is licensed under the terms of the MIT license.
