@@ -1,4 +1,4 @@
-# roadtripstops
+# RoadTripStops
 A MERN application for exploring and sharing your favorite road trip destinations.
 Project for CS5610 Web Development at Northeastern University
 
